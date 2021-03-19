@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ScrollingText</string>
+    <string name="article_title">Honey</string>
+    <string name="article_subtitle">Benefits of honey</string>
+    <string name="article_text"><b>Honey</b> is a sweet liquid made by bees using the nectar from flowers. It is graded by color, with the clear, golden amber honey often fetching a higher retail price than the darker varieties.
+        \n \nThe flavor of a particular type of honey will vary based on the types of flower from which the nectar was harvested.
+https://www.medicalnewstoday.com/articles/264667
+Both raw and pasteurized forms of honey are available. Raw honey is removed from the hive and bottled directly, and as such will contain trace amounts of yeast, wax, and pollen. Consuming local raw honey is believed to help with seasonal allergies, due to repeated exposure to the pollen in the area.\n\nPasteurized honey has been heated and processed to remove impurities.
+Honey has high levels of monosaccharides, fructose, and glucose, and it contains about 70 to 80 percent sugar, which provides its sweetness. Honey also has antiseptic and antibacterial properties. Modern medical science has managed to find uses for honey in chronic wound management and combating infection.\n\n
+        A review published in The Cochrane Library indicated that honey might be able to help heal burns. The lead author of the study said that “topical honey is cheaper than other interventions, notably oral antibiotics, which are often used and may have other deleterious side effects.”
+    </string>
 </resources>
