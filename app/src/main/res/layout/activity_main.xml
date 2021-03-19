@@ -44,6 +44,15 @@
                 android:justificationMode="inter_word"
                 android:lineSpacingExtra="@dimen/line_spacing"
                 android:text="@string/article_text" />
+
+            <Button
+                android:id="@+id/addcomment"
+                android:layout_margin="8dp"
+                android:padding="3dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/teal_200"
+                android:text="@string/button_name"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

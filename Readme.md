@@ -1,2 +1,2 @@
-## Scrolling Text Task Final
-![](app/src/main/res/drawable/task.gif)
+## Coding Challenge
+![](app/src/main/res/drawable/coding.gif)
